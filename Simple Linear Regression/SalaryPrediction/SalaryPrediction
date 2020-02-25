@@ -1,0 +1,2 @@
+The following folder contains files and dataset related to salary prediction done using simple linear regression.The dataset contains two columns namely Years of experience and salary .
+The task is to find out the correlation between salary and years of experience and predict salary using linear regression.
