@@ -1,0 +1,4 @@
+This problem contains a dataset with multiple independent variable which may possess a linear relationship with the dependent variable.
+This folder contains a python file and a dataset.
+The task is to predict the profits of startups with different administration , marketing , R&D  expenditure and different locations.
+Venture Capitalists can use this model to invest in the most profitable company.
