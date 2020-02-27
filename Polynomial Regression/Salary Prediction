@@ -1,4 +1,0 @@
-Another form of the salary prediction problem where the data seems to follow a non-linear relationship.
-In this problem we observe that the salary increases exponentially as the value of the independent variable increases.
-
-This folder contains a dataset for the prediction and a python file to make the model.
