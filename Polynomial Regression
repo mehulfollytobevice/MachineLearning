@@ -1,5 +1,0 @@
-This folder contains the problems regarding polynomial regression.
-Polynomial regression is the special use case of multiple linear regression where the independent variable has a polynomial relationship with the dependent variable .
-Equation of polynomial regression:
-      y=b0+ b1.X1+b2.X1^2...+bn.X1^n
-      
