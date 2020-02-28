@@ -1,0 +1,5 @@
+This folder contains a variant of the salary prediction problem . 
+In this problem , we have used the support vector regression to come up with an accurate predictions for the salaries at different positions .
+
+This folder contains a dataset and a python file.
+Sometimes linear or polynomial regression do not provide us with good enough predictions , so we have to use SVR .
