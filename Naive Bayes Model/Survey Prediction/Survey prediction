@@ -1,0 +1,5 @@
+This folder contains a problem on predicting the customer base using the data from a survey.
+The problem is to make a model that will predict which people are potential customers and allow the company to optimise their marketing campaign.
+The dataset contains attributes like age , gender, estimated salary and whether they purchased the product or not .
+
+The folder contains a CSV file with the data and a python file for implementing the Naive Bayes model .
