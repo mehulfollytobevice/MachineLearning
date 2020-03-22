@@ -1,0 +1,6 @@
+This folder contains a problem on segmenting the cutomers into clusters or groups which are unknown in the beginning of the problem .
+The company has made a dataset which contains attributes like age , gender, estimated salary and the spending score of customers .
+The problem is to make a model that will predict which people are potential customers and allow the company to optimise their marketing campaign .
+This problem also helps us to understand the various segments the customers belong to , also we learn how to calculate the optimum number of clusters using the elbow method. 
+
+The folder contains a CSV file with the data and a python file for implementing the K-Means Clustering model .
