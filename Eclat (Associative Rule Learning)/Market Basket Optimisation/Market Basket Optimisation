@@ -1,0 +1,6 @@
+This folder contains a problem based on associative rule learning  .
+The grocery store owner has made a dataset which contains all the products purchased by each customer that visits the shop.
+The data contains all the purchases from a week , so as to give a good representation of which products are usually bought.
+The problem is to make a model that will gives us some rules as to which products are bought together so that some marketing strategy can be implemented to drive up the revenue of the grocery store .
+
+The folder contains a CSV file with the data and a python file for implementing the Eclat Associative Rule Learning algorithm.
