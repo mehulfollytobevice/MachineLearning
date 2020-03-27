@@ -1,1 +1,15 @@
+In probability theory, the multi-armed bandit problem is a problem in which a fixed limited set of resources must be allocated between competing (alternative) choices
+in a way that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation,
+and may become better understood as time passes or by allocating resources to the choice. 
+This is a classic reinforcement learning problem that exemplifies the exploration–exploitation tradeoff dilemma.
+The name comes from imagining a gambler at a row of slot machines (sometimes known as "one-armed bandits"),
+who has to decide which machines to play, how many times to play each machine and in which order to play them,
+and whether to continue with the current machine or try a different machine.
+The multi-armed bandit problem also falls into the broad category of stochastic scheduling.
 
+The folder cantains a dataset and a python file to simulate this and solve it using reinforcement learning.
+Furthermore the problem is modified and presented as an advertisement selection problem , where the best advertisement has to be picked from a given 
+number of ads.Instead of using simple AB testing to figure out which as works the best , reinforcement learning is used.
+The dataset contains 10000 choices of the users when shown a given ad, where 1 represents 'good' and 0 represents 'bad'.
+
+Also , this dataset is only for simulation , in real life we train the model on the go.We never have any data in the beginning of the experiment.
