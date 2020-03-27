@@ -7,9 +7,9 @@ who has to decide which machines to play, how many times to play each machine an
 and whether to continue with the current machine or try a different machine.
 The multi-armed bandit problem also falls into the broad category of stochastic scheduling.
 
-The folder cantains a dataset and a python file to simulate this and solve it using reinforcement learning.
+The folder contains a dataset and a python file to simulate the problem and solve it using reinforcement learning.
 Furthermore the problem is modified and presented as an advertisement selection problem , where the best advertisement has to be picked from a given 
-number of ads.Instead of using simple AB testing to figure out which as works the best , reinforcement learning is used.
-The dataset contains 10000 choices of the users when shown a given ad, where 1 represents 'good' and 0 represents 'bad'.
+number of ads.Instead of using simple AB testing to figure out which ad works the best , reinforcement learning is used.
+The dataset contains 10000 rows , each row representing  the choice made when shown a given ad, where 1 represents 'good' and 0 represents 'bad'.
 
 Also , this dataset is only for simulation , in real life we train the model on the go.We never have any data in the beginning of the experiment.
