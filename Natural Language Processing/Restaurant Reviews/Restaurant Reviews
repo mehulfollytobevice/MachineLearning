@@ -1,0 +1,8 @@
+The following problem is about classifying whether a given review about a restaurant is postive or not .
+A restaurant has got 1000 reviews from its customers, and we have to use NLP to classify all these reviews into good and bad reviews.
+This folder contains a dataset and python file implementing NLP to solve the problem . 
+Also we use and compare different classification models to see their performance and measure each model's accuracy.
+The three different models used are:
+1.Naive Bayes Classification
+2.Decision Tree Classification
+3.Random Forest Classification
