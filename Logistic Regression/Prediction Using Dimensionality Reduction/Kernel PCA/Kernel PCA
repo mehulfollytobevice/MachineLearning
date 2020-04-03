@@ -1,0 +1,5 @@
+In the field of multivariate statistics, kernel principal component analysis (kernel PCA)  is an extension of principal component analysis (PCA) using techniques of kernel methods.
+Using a kernel, the originally linear operations of PCA are performed in a reproducing kernel Hilbert space.
+
+In this folder we have an implementation of the Principal Component Analysis (PCA) done to reduce the dimensions of a dataset and predict 
+the outcome of a  logistic regression based classification model.The folder contains a python file and a dataset .
