@@ -1,0 +1,5 @@
+Linear Discriminant Analysis (LDA) is a dimensionality reduction technique.
+As the name implies dimensionality reduction techniques reduce the number of dimensions (i.e. variables) in a dataset while retaining as much information as possible. 
+
+In this folder we have an implementation of the Linear Discriminant  Analysis (LDA) done to reduce the dimensions of a dataset and predict 
+the outcome of a  logistic regression based classification model.The folder contains a python file and a dataset .
