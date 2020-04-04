@@ -1,0 +1,4 @@
+A bank has collected some data from it's customers and want to predict the chances of the customers leaving the bank based on the collected data.
+The task of the machine learning scientist is to build a model to predict the probability of a customer leaving the bank.
+XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.In this folder we have the applied the
+implementation of the XGboost algorithm to solve the given problem.
