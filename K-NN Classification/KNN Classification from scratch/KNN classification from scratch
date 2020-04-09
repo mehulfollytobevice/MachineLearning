@@ -1,0 +1,4 @@
+K-nearest neighbors (KNN) algorithm uses ‘feature similarity’ to predict the values of new datapoints which further means that the new 
+data point will be assigned a value based on how closely it matches the points in the training set.
+
+In this folder I have implmented KNN from scratch. The dataset used to test the model can be found on this link: http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
