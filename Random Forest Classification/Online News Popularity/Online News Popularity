@@ -7,3 +7,5 @@ advertisers and even activists/politicians (e.g., to understand or influence pub
 
 This folder contains a dataset and a python file classifying a  particular news as popular or unpopular.
 Although the accuracy is low, experimentation  with the model is highly advisable. 
+The dataset is for the python file available at:http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
+The dataset is for the jupyter notebook available at:https://www.kaggle.com/btphan/online-news-popularity-dataset
