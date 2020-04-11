@@ -1,0 +1,9 @@
+The goal is to first use data-driven models for predicting what is more likely to happen in the future, and then use modern
+optimization methods to search for the best possible solution given what can be currently known and predicted.
+
+Popularity is often measured by considering the number of interactions in the Web and social networks (e.g., number of
+shares, likes and comments). Predicting such popularity is valuable for authors,content providers,
+advertisers and even activists/politicians (e.g., to understand or influence public opinion).
+
+This folder contains a dataset and a python file classifying a  particular news as popular or unpopular.
+Although the accuracy is low, experimentation  with the model is highly advisable. 
