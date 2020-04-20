@@ -1,0 +1,3 @@
+The following folder contains the implmentation of Support Vector Machine from scratch .Support Vector Machines are a great way to classify
+data into groups and make predictions . A support vector machine is based on the convex optimisation problem and a huge part of the code 
+implmentation contains optimising the values of the parameters 'w' and 'b'.
