@@ -1,1 +1,2 @@
-
+## Mean Shift from scratch
+This folder contains the implemementation of <b>Mean Shift</b> algorithm from scratch .Mean Shift is a hierarchical clustering algortihm that uses bandwidth and radius to identify points within a cluster and get new centroids accordingly .Clustering is a type of unsupervised machine learning technique which allows the machine to figure out different clusters of data points within a dataset.
