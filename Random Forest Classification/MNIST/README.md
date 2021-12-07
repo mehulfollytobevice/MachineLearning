@@ -11,7 +11,7 @@ In this micro-project, we create a basic machine learning framework and test it 
     * create_folds.py: This file contains the code for downloading the MNIST dataset and splitting it into multiple folds which can be used for training and validation purposes.  
     * train.py: This file contains the code for training and evaluating the model on the dataset.
     * config.py: This file contains the information like the fold numbers, the training file and the output folder. While using this project, please change the paths mentioned in this file according to your system.
-    * model.dispatcher.py: Within this file, we define a dictionary with keys that are names of the models and values are the models themselves.
+    * model_dispatcher.py: Within this file, we define a dictionary with keys that are names of the models and values are the models themselves.
 3. <b> Models folder: </b> This folder keeps all the trained models.
 
 ### How to test the project?
