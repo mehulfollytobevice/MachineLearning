@@ -1,0 +1,1 @@
+This folder contains the input data needed for training and testing the model.
